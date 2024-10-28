@@ -1,0 +1,19 @@
+.editado {
+
+    width: 600px;
+    height: 100%;
+
+    background-color: gold;
+
+}
+
+li.editado {
+    margin-left: 20px;
+    margin: 10px;
+    color: darkred;
+}
+
+h1.editado {
+    font-family: 'Lucida Sans';
+    margin-bottom: 50px;
+} 

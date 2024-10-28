@@ -1,0 +1,27 @@
+.sol {
+    width: 300px;
+    height: 150px;
+    background-color: #a30000;
+    border-radius: 60%;
+    align-content: center;
+}
+
+.circulito{
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+    border-radius: 85%;
+    align-content: right;
+}
+
+.cuadrado{
+    width: 300px;
+    height: 300px;
+    background-color:black;
+    border-radius: 0%;
+    align-content: right;
+}
+.guay{
+    background-color: blueviolet;
+    border-radius: 10%,20%,40%,70%;
+}

@@ -1,0 +1,33 @@
+.sombra-roja {
+    text-shadow: 0px 0px 10px red;
+    color: #000;
+    font-size: 24px;
+}
+
+.sombra-multicolor {
+    text-shadow: 
+        1px 1px 0px red,
+        -1px -1px 0px green,
+        1px -1px 0px blue,
+        -1px 1px 0px yellow;
+    color: #000;
+    font-size: 24px;
+}
+
+.sombra-grabado {
+    text-shadow: 1px 1px 0px #ccc, -1px -1px 0px #fff;
+    color: #777;
+    font-size: 24px;
+}
+
+.sombra-gris {
+    text-shadow: 2px 2px 3px #999;
+    color: #aaa;
+    font-size: 24px;
+}
+
+.sombra-gris-claro {
+    text-shadow: 2px 2px 5px #ccc;
+    color: #bbb;
+    font-size: 24px;
+}

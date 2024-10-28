@@ -1,0 +1,22 @@
+table, th, td,tr {
+    border: 1px solid black;
+    
+  }
+  table{
+    width: 350px;
+    height: 100px;
+    border-collapse: collapse;
+  }
+
+
+th{
+    width: 30px;
+    background-color: rgb(58, 58, 58);
+    border: .5px;
+    color: aliceblue;
+}
+
+td{
+    width: 30px;
+    background-color: rgb(153, 153, 153);
+}

@@ -1,0 +1,30 @@
+.testimonials__card {
+    position: relative;
+    width: 300px;
+    overflow: hidden;
+}
+.testimonials__card-img img {
+    width: 1000;
+    display: block;
+}
+.testimonials__card--content {
+    position: absolute;
+    top: 300px;
+    left: 0;
+    width: 10%;
+    height: 20%;
+    background-color: rgba(0, 128, 0, 0.7); 
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease; 
+    padding: 20px;
+}
+
+
+.testimonials__card:hover .testimonials__card--content {
+    opacity: 1;
+}

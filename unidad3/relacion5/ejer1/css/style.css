@@ -1,0 +1,71 @@
+div.exampleborderradiusa {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    border-radius: 0px 0px 75px 0px; 
+}
+
+div.exampleborderradiusb {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    border-radius: 0px 0px 30px 0px;
+}
+
+div.exampleborderradiusc {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    border-radius: 0px 0px 35px 0px;
+}
+div.exampleborderradiusd {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    width: 12em;
+    height: 5em;
+    text-align: center;
+    border-radius: 35px 75px 35px 75px; 
+}
+
+div.exampleborderradiuse {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    border-radius: 0px 30px 30px 0px; 
+}
+
+div.exampleborderradiusf {
+    float: left;
+    background-color: #464646;
+    margin-top: 20px;
+    margin-right: 40px;
+    width: 70px;
+    height: 70px;
+    text-align: center;    
+    border-radius: 50%; 
+}
+
+.examplelabelborderradius {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}

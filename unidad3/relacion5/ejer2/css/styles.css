@@ -1,0 +1,155 @@
+.offset { overflow: hidden; margin: 20px 0 40px 20px; }
+        
+        .offset div {
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+        }
+     .exampleboxshadowa{
+            box-shadow: -5px 0px 5px #888;
+            
+        }
+        
+        div.exampleboxshadowb{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 2px #888;
+            
+        }
+
+        div.exampleboxshadowc{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 5px #888;
+            
+        }
+
+        div.exampleboxshadowd{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 5px #888;
+            
+        }
+
+        div.exampleboxshadowe{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 5px #888;
+            
+        }
+
+        div.exampleboxshadowf{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 5px #888;
+            
+        }
+
+
+        div.exampleboxshadowg{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 5px #bbb;
+            
+        }
+
+
+        div.exampleboxshadowh{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 5px #888;
+            
+        }
+
+        div.exampleboxshadowi{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: 5px 0px 5px #bbb;
+            
+        }
+        
+        div.exampleboxshadowj{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: -5px 0px 15px rgba(0, 0, 0, 0.3);
+            
+        }
+
+        div.exampleboxshadowk{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: 0px 5px 5px #bbb;
+            
+        }
+
+        div.exampleboxshadowl{
+            background-color: #eee;
+            float:left;
+            margin-top: 20px;
+            margin-right: 40px;
+            height: 65px;
+            width:160px;
+            text-align: center;
+            box-shadow: 0px 0px 10px #666;
+            
+        }
+        .examplelabelboxshadow {
+            color: #888;
+            font-size: 20px;
+            position: relative;
+            top: 20px;
+        }

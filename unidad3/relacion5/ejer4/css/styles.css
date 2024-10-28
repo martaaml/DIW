@@ -1,0 +1,11 @@
+
+
+        .gradient-box {
+            width: 400px;
+            height: 200px;
+            margin: 50px;
+            background: linear-gradient(45deg, #FF0000, #FFFFFF, #1630BE);
+            /* Add a subtle shadow for effect */
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+        }
